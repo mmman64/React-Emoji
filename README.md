@@ -14,4 +14,4 @@ Read about the Emoji-Log philosophy [here!](https://github.com/ahmadawais/Emoji-
 - [X] Use Express to serve data from local JSON file
 - [X] Make a fun banner with Gimp
 
-![React-Emoji](public/react-emoji.png)
+![React-Emoji](public/react_emoji.png)
