@@ -13,5 +13,6 @@ Read about the Emoji-Log philosophy [here!](https://github.com/ahmadawais/Emoji-
 - [X] Use CSS grid and media queries to make a responsive layout
 - [X] Use Express to serve data from local JSON file
 - [X] Make a fun banner with Gimp
+- [ ] Adapt to AirBnB style guide for ESLint in future
 
 ![React-Emoji](public/react_emoji.png)
