@@ -1,0 +1,40 @@
+html, body, #root {
+  height: 100%;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 50px;
+  background: linear-gradient(
+    to left,
+    #C35FEF 0%,
+    #35D2DB 100%
+  );
+}
+
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 100px;
+  font-weight: lighter;
+  color: coral;
+}

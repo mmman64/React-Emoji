@@ -1,0 +1,26 @@
+{
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "fetch": true
+    },
+    "extends": [
+        "prettier",
+        "prettier/react"
+    ],
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "es5",
+                "singleQuote": true,
+                "printWidth": 100
+            }
+        ]
+    },
+    "plugins": [
+        "prettier"
+    ],
+    "parser": "babel-eslint"
+}

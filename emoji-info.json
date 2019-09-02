@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Angry Emoji",
+    "usecase": "To convey furious rage!",
+    "count": 6,
+    "creator": "John Hopkins",
+    "image": "angry.png"
+  },
+  {
+    "id": 2,
+    "name": "Cool Emoji",
+    "usecase": "To show 'em who's da man.",
+    "count": 10,
+    "creator": "Tim Broseph",
+    "image": "cool.png"
+  },
+  {
+    "id": 3,
+    "name": "Laugh Emoji",
+    "usecase": "LOLing",
+    "count": 2,
+    "creator": "Foar laphs",
+    "image": "laugh.png"
+  },
+  {
+    "id": 4,
+    "name": "Love Emoji",
+    "usecase": "It must be love???",
+    "count": 1,
+    "creator": "Antoinette Yolandez",
+    "image": "love.png"
+  },
+  {
+    "id": 5,
+    "name": "Nerd Emoji",
+    "usecase": "When you got 'em good!",
+    "count": 3,
+    "creator": "Jimmy Jimmenez",
+    "image": "nerd.png"
+  },
+  {
+    "id": 6,
+    "name": "Smiling Emoji",
+    "usecase": "Express joy!",
+    "count": 7,
+    "creator": "Fabio Cartello",
+    "image": "smile.png"
+  }
+]
