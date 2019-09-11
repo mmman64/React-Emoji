@@ -8,7 +8,7 @@ Read about the Emoji-Log philosophy [here!](https://github.com/ahmadawais/Emoji-
 
 - [X] Bootstrap a React app with create-react-app
 - [X] Use vscode git integration
-- [X] Use Ahmad Awais's Emoji-Log for github commits
+- [X] Use Ahmad Awais's Emoji-Log for GitHub commits
 - [X] Use ESLint for code management (integrated with Prettier)
 - [X] Use CSS grid and media queries to make a responsive layout
 - [X] Use Express to serve data from local JSON file
