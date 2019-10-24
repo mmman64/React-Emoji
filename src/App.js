@@ -3,7 +3,7 @@ import { SearchBar } from './components/searchbar/searchbar.component';
 import { CardGrid } from './components/card-grid/card-grid.component';
 import './App.css';
 
-// test
+// testing
 
 class App extends Component {
   constructor() {
